@@ -1,6 +1,6 @@
 # 📱 Flipkart Clone 🛒
 
-A Flutter-based clone of the Flipkart app with essential shopping features such as viewing product details, adding/removing items from the cart, and offline storage using Hive. The project uses the BLoC pattern for state management. 🚀
+A Flutter-based clone of the Flipkart app built using the **BLoC** pattern for efficient state management. It includes essential shopping features such as viewing product details, adding/removing items from the cart, and offline storage using Hive. 🚀
 
 ---
 
@@ -17,27 +17,17 @@ A Flutter-based clone of the Flipkart app with essential shopping features such 
 
 ## 📸 Screenshots
 
-### 1. **Splash Screen**
-![Splash Screen](assets/screenshots/splash_screen.png)  
-_This is the splash screen shown when the app starts._ 🎬
+| Splash Screen | Home Screen |
+|--------------|------------|
+| ![Splash Screen](assets/screenshots/splash_screen.png) | ![Home Screen](assets/screenshots/home_screen.png) |
 
----
+| Home Screen (Alternative) | Product Detail Screen |
+|--------------------------|----------------------|
+| ![Home Screen](assets/screenshots/home_screen2.png) | ![Product Detail Screen](assets/screenshots/product_detail_screen.png) |
 
-### 2. **Home Screen**
-![Home Screen](assets/screenshots/home_screen.png)  ![Home Screen](assets/screenshots/home_screen2.png)  
-_The home screen displays a list of available products fetched from assets._ 🛒
-
----
-
-### 3. **Product Detail Screen**
-![Product Detail Screen](assets/screenshots/product_detail_screen.png)  
-_The product detail screen provides detailed information about a product and an option to add it to the cart._ 📦
-
----
-
-### 4. **Cart Screen**
-![Cart Screen](assets/screenshots/cart_screen.png)  
-_The cart screen displays the items added to the cart with options to remove products._ 🛍️❌
+| Cart Screen |
+|------------|
+| ![Cart Screen](assets/screenshots/cart_screen.png) |
 
 ---
 
@@ -45,7 +35,7 @@ _The cart screen displays the items added to the cart with options to remove pro
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/flutter-flipkart-clone.git
+   git clone https://github.com/epicureanAshish/flipkart.git
    ```
 
 2. **Navigate to the project directory:**
@@ -96,3 +86,5 @@ _The cart screen displays the items added to the cart with options to remove pro
 - Cart data is stored in Hive, ensuring that users' cart information is retained across app launches, even when offline. 💾🔒
 
 ---
+
+## 🎉 Happy Coding! 🚀
