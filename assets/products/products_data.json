@@ -1,0 +1,229 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14 Pro",
+    "brand": "Apple",
+    "original_price": 1199.99,
+    "discounted_price": 1099.99,
+    "image_url": "https://rukminim2.flixcart.com/image/454/545/xif0q/mobile/y/l/p/-original-imaghxemc3wtcuhb.jpeg?q=60&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/mobile/y/l/p/-original-imaghxemc3wtcuhb.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/500/550/xif0q/mobile/r/0/6/-original-imaghxemsfczqrvb.jpeg?q=20&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/mobile/z/m/l/-original-imaghxejxzzzkqr7.jpeg?q=60&crop=false"
+    ],
+    "description": "Apple iPhone 14 Pro with A16 Bionic chip, 48MP camera, and Dynamic Island.",
+    "quantity_available": 15,
+    "category": "Smartphones",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Galaxy S23 Ultra",
+    "brand": "Samsung",
+    "original_price": 1299.99,
+    "discounted_price": 1199.99,
+    "image_url": "https://rukminim2.flixcart.com/image/454/545/xif0q/mobile/i/5/1/-original-imagzm8pvabtmeys.jpeg?q=60&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/mobile/i/5/1/-original-imagzm8pvabtmeys.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/mobile/1/l/2/-original-imagzm8pyjbrzjxs.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/mobile/q/y/u/-original-imagmg6ggzazdevx.jpeg?q=60&crop=false"
+    ],
+    "description": "Samsung Galaxy S23 Ultra with Snapdragon 8 Gen 2 and 200MP camera.",
+    "quantity_available": 10,
+    "category": "Smartphones",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "MacBook Air M2",
+    "brand": "Apple",
+    "original_price": 1499.99,
+    "discounted_price": 1399.99,
+    "image_url": "https://rukminim2.flixcart.com/image/454/545/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=60&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/computer/j/r/t/-original-imagfdeqhcbt4mfu.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/500/550/xif0q/computer/o/v/u/-original-imagfdeqej6rhh94.jpeg?q=20&crop=false"
+    ],
+    "description": "Apple MacBook Air with M2 chip, 13.6-inch Retina display, and 18-hour battery life.",
+    "quantity_available": 8,
+    "category": "Laptops",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "original_price": 399.99,
+    "discounted_price": 349.99,
+    "image_url": "https://rukminim2.flixcart.com/image/454/545/xif0q/headphone/p/x/k/wh-ch510-sony-original-imagz5rbr2ncbrey.jpeg?q=60&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/headphone/p/x/k/wh-ch510-sony-original-imagz5rbr2ncbrey.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/headphone/t/t/y/-original-imahfgfkzgfhkrzh.jpeg?q=60&crop=false"
+    ],
+    "description": "Sony WH-1000XM5 Wireless Noise-Canceling Over-Ear Headphones.",
+    "quantity_available": 20,
+    "category": "Headphones",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "Apple Watch Series 8",
+    "brand": "Apple",
+    "original_price": 499.99,
+    "discounted_price": 449.99,
+    "image_url": "https://rukminim2.flixcart.com/image/454/545/xif0q/smartwatch/y/o/i/-original-imaghxg338pj9huh.jpeg?q=60&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/smartwatch/y/o/i/-original-imaghxg338pj9huh.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/smartwatch/6/g/h/-original-imaghxg3bezxcmkb.jpeg?q=60&crop=false"
+    ],
+    "description": "Apple Watch Series 8 with Always-On Retina display and advanced health tracking.",
+    "quantity_available": 12,
+    "category": "Smartwatches",
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "name": "Dell XPS 15",
+    "brand": "Dell",
+    "original_price": 1899.99,
+    "discounted_price": 1799.99,
+    "image_url": "https://rukminim2.flixcart.com/image/500/550/jk01bww0/computer/x/5/z/dell-na-thin-and-light-laptop-original-imaf7fy9v5sbfsxp.jpeg?q=20&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/500/550/jk01bww0/computer/x/5/z/dell-na-thin-and-light-laptop-original-imaf7fy9v5sbfsxp.jpeg?q=20&crop=false",
+      "https://rukminim2.flixcart.com/image/500/550/jk01bww0/computer/x/5/z/dell-na-thin-and-light-laptop-original-imaf7fy97d4j2z9a.jpeg?q=20&crop=false"
+    ],
+    "description": "Dell XPS 15 with Intel i7, 16GB RAM, and 512GB SSD.",
+    "quantity_available": 5,
+    "category": "Laptops",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "name": "iPad Pro 12.9",
+    "brand": "Apple",
+    "original_price": 1099.99,
+    "discounted_price": 999.99,
+    "image_url": "https://rukminim2.flixcart.com/image/454/545/xif0q/cases-covers/flip-cover/m/e/a/14590-dark-blue-tgk-original-imah5b2er8dtgev9.jpeg?q=60&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/cases-covers/flip-cover/m/e/a/14590-dark-blue-tgk-original-imah5b2er8dtgev9.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/cases-covers/back-cover/p/r/t/nvyblu-ev-o-almoc-original-imah5g7hwtwyqhe2.jpeg?q=60&crop=false"
+    ],
+    "description": "Apple iPad Pro 12.9-inch with M2 chip and Liquid Retina XDR display.",
+    "quantity_available": 7,
+    "category": "Tablets",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Bose QuietComfort 45",
+    "brand": "Bose",
+    "original_price": 329.99,
+    "discounted_price": 299.99,
+    "image_url": "https://rukminim2.flixcart.com/image/454/545/xif0q/headphone/y/e/n/-original-imahfcgw3ezpmhs2.jpeg?q=60&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/headphone/y/e/n/-original-imahfcgw3ezpmhs2.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/headphone/c/c/n/882826-0010-bose-original-imagwznzckfzgs9q.jpeg?q=60&crop=false"
+    ],
+    "description": "Bose QuietComfort 45 Noise Cancelling Bluetooth Headphones.",
+    "quantity_available": 18,
+    "category": "Headphones",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "name": "PlayStation 5",
+    "brand": "Sony",
+    "original_price": 499.99,
+    "discounted_price": 469.99,
+    "image_url": "https://rukminim2.flixcart.com/image/454/545/xif0q/gamingconsole/n/o/o/-original-imagzf6vfz5hjpab.jpeg?q=60&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/gamingconsole/n/o/o/-original-imagzf6vfz5hjpab.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/gamingconsole/o/5/e/-original-imah247u4dkvrkwn.jpeg?q=60&crop=false"
+    ],
+    "description": "Sony PlayStation 5 with ultra-fast SSD and ray tracing support.",
+    "quantity_available": 6,
+    "category": "Gaming Consoles",
+    "rating": 4.9
+  },
+  {
+    "id": 10,
+    "name": "Xbox Series X",
+    "brand": "Microsoft",
+    "original_price": 499.99,
+    "discounted_price": 479.99,
+    "image_url": "https://rukminim2.flixcart.com/image/500/550/xif0q/gamingconsole/q/d/v/512-series-s-console-ssd-xbox-yes-original-imah79yqfhwhbhve.jpeg?q=20&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/500/550/xif0q/gamingconsole/q/d/v/512-series-s-console-ssd-xbox-yes-original-imah79yqfhwhbhve.jpeg?q=20&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/gamingconsole/w/s/m/512-series-s-console-ssd-xbox-yes-original-imah79yqts8x6mge.jpeg?q=60&crop=false"
+    ],
+    "description": "Microsoft Xbox Series X with 1TB SSD and 4K gaming.",
+    "quantity_available": 4,
+    "category": "Gaming Consoles",
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "name": "Google Pixel 7 Pro",
+    "brand": "Google",
+    "original_price": 899.99,
+    "discounted_price": 849.99,
+    "image_url": "https://rukminim2.flixcart.com/image/454/545/xif0q/cases-covers/back-cover/g/0/k/bw-green-big-wings-original-imahy8d95jncvut3.jpeg?q=60&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/cases-covers/back-cover/g/0/k/bw-green-big-wings-original-imahy8d95jncvut3.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/cases-covers/back-cover/g/g/y/lstpixl7q1-lustree-original-imagguvcwcf8ha8g.jpeg?q=60&crop=false"
+    ],
+    "description": "Google Pixel 7 Pro with Tensor G2 chip and 50MP camera.",
+    "quantity_available": 9,
+    "category": "Smartphones",
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "name": "OnePlus 11",
+    "brand": "OnePlus",
+    "original_price": 799.99,
+    "discounted_price": 749.99,
+    "image_url": "https://rukminim2.flixcart.com/image/454/545/xif0q/mobile/6/x/a/11r-5g-5011102525-oneplus-original-imagn3afeqfr6acy.jpeg?q=60&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/mobile/6/x/a/11r-5g-5011102525-oneplus-original-imagn3afeqfr6acy.jpeg?q=60&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/mobile/f/g/n/11r-5g-5011102525-oneplus-original-imagn3afr52an2eq.jpeg?q=60&crop=false"
+    ],
+    "description": "OnePlus 11 with Snapdragon 8 Gen 2 and 120Hz AMOLED display.",
+    "quantity_available": 10,
+    "category": "Smartphones",
+    "rating": 4.5
+  },
+  {
+    "id": 13,
+    "name": "Samsung Galaxy Tab S8",
+    "brand": "Samsung",
+    "original_price": 749.99,
+    "discounted_price": 699.99,
+    "image_url": "https://rukminim2.flixcart.com/image/500/550/kzrbiq80/tablet/x/k/n/-original-imagbpezhgfrhb8z.jpeg?q=20&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/500/550/kzrbiq80/tablet/x/k/n/-original-imagbpezhgfrhb8z.jpeg?q=20&crop=false",
+      "https://rukminim2.flixcart.com/image/500/550/kzrbiq80/tablet/1/a/5/-original-imagbpezwdw72dnz.jpeg?q=20&crop=false"
+    ],
+    "description": "Samsung Galaxy Tab S8 with S Pen support and 11-inch LCD display.",
+    "quantity_available": 8,
+    "category": "Tablets",
+    "rating": 4.3
+  },
+  {
+    "id": 14,
+    "name": "Razer Blade 15",
+    "brand": "Razer",
+    "original_price": 2199.99,
+    "discounted_price": 1999.99,
+    "image_url": "https://rukminim2.flixcart.com/image/500/550/xif0q/laptop-adapter/8/c/i/razer-blade-19-5v-16-92a-330w-charger-for-razer-blade-16-rz09-original-imagyzyhcvd8rg3y.jpeg?q=20&crop=false",
+    "images_url": [
+      "https://rukminim2.flixcart.com/image/500/550/xif0q/laptop-adapter/8/c/i/razer-blade-19-5v-16-92a-330w-charger-for-razer-blade-16-rz09-original-imagyzyhcvd8rg3y.jpeg?q=20&crop=false",
+      "https://rukminim2.flixcart.com/image/454/545/xif0q/laptop-adapter/g/n/o/razer-blade-19-5v-16-92a-330w-charger-for-razer-blade-16-rz09-original-imagyzyhwvd2zpfn.jpeg?q=60&crop=false"
+    ],
+    "description": "Razer Blade 15 gaming laptop with RTX 3070 Ti and 165Hz display.",
+    "quantity_available": 5,
+    "category": "Laptops",
+    "rating": 4.7
+  }
+]
