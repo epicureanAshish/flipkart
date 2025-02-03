@@ -40,7 +40,7 @@ A Flutter-based clone of the Flipkart app built using the **BLoC** pattern for e
 
 2. **Navigate to the project directory:**
    ```bash
-   cd flutter-flipkart-clone
+   cd flipkart
    ```
 
 3. **Install dependencies:**
